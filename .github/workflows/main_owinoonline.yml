@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'owinoonline'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_85B230E1ACB145A784D8B3748C6D6001 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5D6061FEC804435995F43E393FB02C81 }}
